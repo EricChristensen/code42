@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FileScanner/FileScanner.iml" filepath="$PROJECT_DIR$/FileScanner/FileScanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileScannerClient/FileScannerClient.iml" filepath="$PROJECT_DIR$/FileScannerClient/FileScannerClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Input/Input.iml" filepath="$PROJECT_DIR$/Input/Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InputAnalysis/InputAnalysis.iml" filepath="$PROJECT_DIR$/InputAnalysis/InputAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-app.iml" filepath="$PROJECT_DIR$/my-app.iml" />
+    </modules>
+  </component>
+</project>

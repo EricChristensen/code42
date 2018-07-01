@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="FileScanner" />
+        <module name="FileScannerClient" />
+        <module name="Input" />
+        <module name="InputAnalysis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="FileScanner" target="1.8" />
+      <module name="FileScannerClient" target="1.8" />
+      <module name="Input" target="1.8" />
+      <module name="InputAnalysis" target="1.8" />
+      <module name="my-app" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
