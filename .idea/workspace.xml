@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba207159-0835-48f4-890a-676638bf3da0" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Input/src/main/java/com/mycompany/app/input/Ob.java" afterPath="$PROJECT_DIR$/Input/src/main/java/com/mycompany/app/input/InputAnalyzer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Input/src/test/java/com/mycompany/app/input/ObTest.java" afterPath="$PROJECT_DIR$/Input/src/test/java/com/mycompany/app/input/InputAnalyzerTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FileScannerClient/src/test/java/com/mycompany/app/inputanalysis/FileScannerClientTest.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScanner/src/test/java/com/mycompany/app/filescanner/FileScannerTest.java" afterPath="$PROJECT_DIR$/FileScanner/src/test/java/com/mycompany/app/filescanner/FileScannerTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScannerClient/src/main/java/com/mycompany/app/inputanalysis/FileScannerClient.java" afterPath="$PROJECT_DIR$/FileScannerClient/src/main/java/com/mycompany/app/inputanalysis/FileScannerClient.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/InputAnalysis/target/" />
@@ -20,30 +21,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FileScanner.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FileScanner/src/main/java/com/mycompany/app/filescanner/FileScanner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="105" column="65" lean-forward="false" selection-start-line="105" selection-start-column="65" selection-end-line="105" selection-end-column="65" />
-              <folding>
-                <element signature="e#934#935#0" expanded="true" />
-                <element signature="e#968#969#0" expanded="true" />
-                <element signature="e#1011#1012#0" expanded="true" />
-                <element signature="e#1051#1052#0" expanded="true" />
-                <element signature="e#1086#1087#0" expanded="true" />
-                <element signature="e#1117#1118#0" expanded="true" />
-                <element signature="e#1154#1155#0" expanded="true" />
-                <element signature="e#1187#1188#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileScannerTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FileScannerTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FileScanner/src/test/java/com/mycompany/app/filescanner/FileScannerTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="127">
-              <caret line="21" column="2" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileScannerClient.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FileScannerClient.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FileScannerClient/src/main/java/com/mycompany/app/inputanalysis/FileScannerClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-112">
-              <caret line="14" column="53" lean-forward="false" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+            <state relative-caret-position="257">
+              <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -224,7 +206,6 @@
         <option value="$PROJECT_DIR$/FileScanner/pom.xml" />
         <option value="$PROJECT_DIR$/FileScanner/src/main/java/com/mycompany/app/filescanner/Main.java" />
         <option value="$PROJECT_DIR$/FileScanner/src/main/java/com/mycompany/app/filescanner/FileScanner.java" />
-        <option value="$PROJECT_DIR$/FileScannerClient/src/main/java/com/mycompany/app/inputanalysis/FileScannerClient.java" />
         <option value="$PROJECT_DIR$/Input/src/test/java/com/mycompany/app/input/ObTest.java" />
         <option value="$PROJECT_DIR$/Input/src/main/java/com/mycompany/app/input/Ob.java" />
         <option value="$PROJECT_DIR$/README.md" />
@@ -233,6 +214,7 @@
         <option value="$PROJECT_DIR$/FileScannerClient/README.md" />
         <option value="$PROJECT_DIR$/FileScanner/README.md" />
         <option value="$PROJECT_DIR$/FileScanner/src/test/java/com/mycompany/app/filescanner/FileScannerTest.java" />
+        <option value="$PROJECT_DIR$/FileScannerClient/src/main/java/com/mycompany/app/inputanalysis/FileScannerClient.java" />
       </list>
     </option>
   </component>
@@ -364,6 +346,54 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="FileScannerClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FileScannerClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FileScannerClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inputanalysis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1149,16 +1179,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FileScannerClient/src/test/java/com/mycompany/app/inputanalysis/FileScannerClientTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FileScannerClient/src/resources/directory0/file1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1272,16 +1292,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FileScannerClient/src/main/java/com/mycompany/app/inputanalysis/FileScannerClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-112">
-          <caret line="14" column="53" lean-forward="false" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Input/src/test/java/com/mycompany/app/input/InputAnalyzerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -1313,14 +1323,6 @@
             <element signature="e#4799#4800#0" expanded="true" />
             <element signature="e#4839#4840#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Input/src/main/java/com/mycompany/app/input/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1383,7 +1385,33 @@
     <entry file="file://$PROJECT_DIR$/FileScanner/src/test/java/com/mycompany/app/filescanner/FileScannerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
-          <caret line="21" column="2" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Input/src/main/java/com/mycompany/app/input/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileScannerClient/src/test/java/com/mycompany/app/inputanalysis/FileScannerClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileScannerClient/src/main/java/com/mycompany/app/inputanalysis/FileScannerClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

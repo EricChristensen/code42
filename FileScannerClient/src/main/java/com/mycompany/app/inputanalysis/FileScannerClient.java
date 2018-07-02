@@ -21,7 +21,7 @@ public class FileScannerClient {
     f.run();
   }
 
-  public void run() {
+  private void run() {
     FileScanner fileScanner = new FileScanner();
     ClassLoader classLoader = getClass().getClassLoader();
     URL url = classLoader.getResource("directory0");
