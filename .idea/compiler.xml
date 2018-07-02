@@ -9,7 +9,6 @@
         <module name="FileScanner" />
         <module name="FileScannerClient" />
         <module name="Input" />
-        <module name="InputAnalysis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">

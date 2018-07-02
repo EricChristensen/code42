@@ -4,7 +4,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/InputAnalysis/pom.xml" />
         <option value="$PROJECT_DIR$/FileScanner/pom.xml" />
         <option value="$PROJECT_DIR$/FileScannerClient/pom.xml" />
         <option value="$PROJECT_DIR$/Input/pom.xml" />

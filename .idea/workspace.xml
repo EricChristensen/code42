@@ -2,35 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba207159-0835-48f4-890a-676638bf3da0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FileScanner/src/resources/directory0/directory1/file5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FileScanner/src/resources/directory0/directory2/file3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FileScanner/src/resources/directory0/directory2/file4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FileScanner/src/resources/directory0/file1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FileScanner/src/resources/directory0/file2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FileScanner/src/resources/emptyDirectory/empty.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FileScannerClient/src/resources/directory0/directory1/file5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FileScannerClient/src/resources/directory0/directory2/file3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FileScannerClient/src/resources/directory0/directory2/file4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FileScannerClient/src/resources/directory0/file1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FileScannerClient/src/resources/directory0/file2.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScanner/target/classes/com/mycompany/app/filescanner/FileScanner$ScanResult.class" afterPath="$PROJECT_DIR$/FileScanner/target/classes/com/mycompany/app/filescanner/FileScanner$ScanResult.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScanner/target/classes/com/mycompany/app/filescanner/FileScanner.class" afterPath="$PROJECT_DIR$/FileScanner/target/classes/com/mycompany/app/filescanner/FileScanner.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScanner/target/classes/com/mycompany/app/filescanner/Main.class" afterPath="$PROJECT_DIR$/FileScanner/target/classes/com/mycompany/app/filescanner/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScanner/target/test-classes/com/mycompany/app/filescanner/FileScannerTest.class" afterPath="$PROJECT_DIR$/FileScanner/target/test-classes/com/mycompany/app/filescanner/FileScannerTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScannerClient/target/classes/com/mycompany/app/inputanalysis/FileScannerClient.class" afterPath="$PROJECT_DIR$/FileScannerClient/target/classes/com/mycompany/app/inputanalysis/FileScannerClient.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScannerClient/target/test-classes/com/mycompany/app/inputanalysis/FileScannerClientTest.class" afterPath="$PROJECT_DIR$/FileScannerClient/target/test-classes/com/mycompany/app/inputanalysis/FileScannerClientTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FileScanner/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Input/README.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/InputAnalysis.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/src/main/java/com/mycompany/app/inputanalysis/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/src/main/java/com/mycompany/app/inputanalysis/Ob.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/src/resources/test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/src/resources/test2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/src/test/java/com/mycompany/app/inputanalysis/ObTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/target/classes/test.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/target/classes/test2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/target/surefire-reports/TEST-com.mycompany.app.ObTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/target/surefire-reports/com.mycompany.app.ObTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/target/test-classes/com/mycompany/app/ObTest.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScanner/target/file-scanner-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/FileScanner/target/file-scanner-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScannerClient/target/file-scanner-client-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/FileScannerClient/target/file-scanner-client-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Input/target/input-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Input/target/input-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScanner/pom.xml" afterPath="$PROJECT_DIR$/FileScanner/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScanner/src/main/java/com/mycompany/app/filescanner/FileScanner.java" afterPath="$PROJECT_DIR$/FileScanner/src/main/java/com/mycompany/app/filescanner/FileScanner.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScanner/src/main/java/com/mycompany/app/filescanner/Main.java" afterPath="$PROJECT_DIR$/FileScanner/src/main/java/com/mycompany/app/filescanner/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScanner/src/test/java/com/mycompany/app/filescanner/FileScannerTest.java" afterPath="$PROJECT_DIR$/FileScanner/src/test/java/com/mycompany/app/filescanner/FileScannerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScannerClient/FileScannerClient.iml" afterPath="$PROJECT_DIR$/FileScannerClient/FileScannerClient.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScannerClient/pom.xml" afterPath="$PROJECT_DIR$/FileScannerClient/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScannerClient/src/main/java/com/mycompany/app/inputanalysis/FileScannerClient.java" afterPath="$PROJECT_DIR$/FileScannerClient/src/main/java/com/mycompany/app/inputanalysis/FileScannerClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScannerClient/src/test/java/com/mycompany/app/inputanalysis/FileScannerClientTest.java" afterPath="$PROJECT_DIR$/FileScannerClient/src/test/java/com/mycompany/app/inputanalysis/FileScannerClientTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Input/src/main/java/com/mycompany/app/input/Main.java" afterPath="$PROJECT_DIR$/Input/src/main/java/com/mycompany/app/input/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Input/src/main/java/com/mycompany/app/input/Ob.java" afterPath="$PROJECT_DIR$/Input/src/main/java/com/mycompany/app/input/Ob.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Input/src/test/java/com/mycompany/app/input/ObTest.java" afterPath="$PROJECT_DIR$/Input/src/test/java/com/mycompany/app/input/ObTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScanner/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/FileScanner/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScanner/target/surefire-reports/TEST-com.mycompany.app.filescanner.FileScannerTest.xml" afterPath="$PROJECT_DIR$/FileScanner/target/surefire-reports/TEST-com.mycompany.app.filescanner.FileScannerTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScanner/target/surefire-reports/com.mycompany.app.filescanner.FileScannerTest.txt" afterPath="$PROJECT_DIR$/FileScanner/target/surefire-reports/com.mycompany.app.filescanner.FileScannerTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScannerClient/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/FileScannerClient/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScannerClient/target/surefire-reports/com.mycompany.app.inputanalysis.FileScannerClientTest.txt" afterPath="$PROJECT_DIR$/FileScannerClient/target/surefire-reports/com.mycompany.app.inputanalysis.FileScannerClientTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Input/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Input/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Input/target/surefire-reports/TEST-com.mycompany.app.input.ObTest.xml" afterPath="$PROJECT_DIR$/Input/target/surefire-reports/TEST-com.mycompany.app.input.ObTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Input/target/surefire-reports/com.mycompany.app.input.ObTest.txt" afterPath="$PROJECT_DIR$/Input/target/surefire-reports/com.mycompany.app.input.ObTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/InputAnalysis/target/" />
@@ -66,16 +71,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FileScanner/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FileScanner/src/main/java/com/mycompany/app/filescanner/Main.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,21 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="empty.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FileScanner/src/resources/emptyDirectory/empty.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ObTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Input/src/test/java/com/mycompany/app/input/ObTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="570">
-              <caret line="81" column="22" lean-forward="true" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
+              <caret line="81" column="22" lean-forward="false" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1020#1021#0" expanded="true" />
@@ -144,7 +129,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ob.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Ob.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Input/src/main/java/com/mycompany/app/input/Ob.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="87">
@@ -168,12 +153,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FileScannerClient/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="4" lean-forward="false" selection-start-line="34" selection-start-column="4" selection-end-line="38" selection-end-column="16" />
-              <folding />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="329">
+                <caret line="37" column="55" lean-forward="false" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FileScanner/README.md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Input/README.md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -200,7 +223,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/app/Main.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/mycompany/app/Ob.java" />
         <option value="$PROJECT_DIR$/src/main/resources/files/test2.txt" />
         <option value="$PROJECT_DIR$/src/test/java/com/mycompany/app/ObTest.java" />
@@ -233,6 +255,9 @@
         <option value="$PROJECT_DIR$/Input/src/main/java/com/mycompany/app/input/Main.java" />
         <option value="$PROJECT_DIR$/Input/src/test/java/com/mycompany/app/input/ObTest.java" />
         <option value="$PROJECT_DIR$/Input/src/main/java/com/mycompany/app/input/Ob.java" />
+        <option value="$PROJECT_DIR$/Input/README.md" />
+        <option value="$PROJECT_DIR$/FileScanner/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -279,185 +304,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="InputAnalysis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InputAnalysis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inputanalysis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InputAnalysis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="InputAnalysis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="inputanalysis" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="Input" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Input" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="input" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Input" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Input" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="input" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -632,144 +479,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="FileScanner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FileScanner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="filescanner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FileScanner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FileScanner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="directory0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FileScanner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="directory0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="directory1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FileScanner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="filescanner" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1348,20 +1057,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="57" lean-forward="false" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/junit/framework/TestCase.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1465,9 +1160,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="149" column="1" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="149" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1483,19 +1176,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1027#1028#0" expanded="false" />
-            <element signature="e#1073#1074#0" expanded="false" />
-            <element signature="e#1111#1112#0" expanded="false" />
-            <element signature="e#1156#1157#0" expanded="false" />
-            <element signature="e#1191#1192#0" expanded="false" />
-            <element signature="e#1238#1239#0" expanded="false" />
-            <element signature="e#1401#1402#0" expanded="false" />
-            <element signature="e#1463#1464#0" expanded="false" />
-            <element signature="e#1506#1507#0" expanded="false" />
-            <element signature="e#1560#1561#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1653,7 +1334,7 @@
     <entry file="file://$PROJECT_DIR$/Input/src/test/java/com/mycompany/app/input/ObTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
-          <caret line="81" column="22" lean-forward="true" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
+          <caret line="81" column="22" lean-forward="false" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1020#1021#0" expanded="true" />
@@ -1681,6 +1362,48 @@
             <element signature="e#4766#4767#0" expanded="true" />
             <element signature="e#4806#4807#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Input/README.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileScanner/README.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="329">
+            <caret line="37" column="55" lean-forward="false" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
