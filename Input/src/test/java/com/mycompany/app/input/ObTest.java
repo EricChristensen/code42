@@ -77,4 +77,10 @@ public class ObTest  {
   public void testLastElement() {
     assertEquals("a", ob.getLastStringElement());
   }
+
+  @Test
+  public void testContains() {
+    assertTrue(ob.contains("a"));
+    assertFalse(ob.contains("garbledy gook, i am not in the file hopefully"));
+  }
 }

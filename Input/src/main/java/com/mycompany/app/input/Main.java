@@ -1,7 +1,9 @@
 package com.mycompany.app.input;
 
 /**
- * Created by ec035872 on 7/1/18.
+ * This class runs the input analysis on a file located in the resources directory.
+ * To run this on a different test file, add your file to the resources directory and then
+ * change the string in the Ob constructor to the name of your file.
  */
 public class Main {
 
