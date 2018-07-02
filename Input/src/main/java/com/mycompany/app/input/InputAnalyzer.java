@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.TreeMap;
 
 /**
- * The Ob class is a class that takes in a file and then performs some computation on the file.
+ * The InputAnalyzer class is a class that takes in a file and then performs some computation on the file.
  *
  * The file should consist of only strings and numbers.
  * For the numbers the mean, median, sum, and percentage of numbers to total contents of the file
@@ -21,14 +21,14 @@ import java.util.TreeMap;
  * For the strings the strings should be sorted into reverse alphabetical order and then
  * printed to standard output with the number of times that string occured in the file.
  */
-public class Ob {
+public class InputAnalyzer {
 
   private List<Double> numbers;
   private TreeMap<String, Integer> stringsCounts;
   private DecimalFormat decimalFormat = new DecimalFormat("##.00");
   private double totalElements = 0;
 
-  public Ob(String path) throws FileNotFoundException {
+  public InputAnalyzer(String path) throws FileNotFoundException {
     numbers = new ArrayList<>();
     stringsCounts = new TreeMap<>(new MyComparator());
 

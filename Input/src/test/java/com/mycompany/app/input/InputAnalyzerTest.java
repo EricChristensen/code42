@@ -11,15 +11,15 @@ import org.junit.Before;
 import org.junit.Test;
 
 
-public class ObTest  {
+public class InputAnalyzerTest {
 
 
-  private Ob ob;
+  private InputAnalyzer inputAnalyzer;
 
   @Before
   public void init() {
     try {
-      ob = new Ob("test2.txt");
+      inputAnalyzer = new InputAnalyzer("test2.txt");
     } catch (FileNotFoundException e) {
       System.out.println("Initialization Failed");
       fail();
@@ -30,7 +30,7 @@ public class ObTest  {
   public void testGoodFile() {
     boolean thrown = false;
     try {
-      Ob ob = new Ob("test.txt");
+      InputAnalyzer inputAnalyzer = new InputAnalyzer("test.txt");
     } catch (FileNotFoundException e) {
       thrown = true;
     }
@@ -41,7 +41,7 @@ public class ObTest  {
   public void testBadFile() throws FileNotFoundException {
     boolean thrown = false;
     try {
-      Ob ob = new Ob("file that doesnt exist");
+      InputAnalyzer inputAnalyzer = new InputAnalyzer("file that doesnt exist");
     } catch (FileNotFoundException e) {
       thrown = true;
     }
@@ -50,37 +50,37 @@ public class ObTest  {
 
   @Test
   public void testAverage() {
-    assertEquals(2.0, ob.average(), 0.0);
+    assertEquals(2.0, inputAnalyzer.average(), 0.0);
   }
 
   @Test
   public void testMedian() {
-    assertEquals(2.0, ob.median(), 0.0);
+    assertEquals(2.0, inputAnalyzer.median(), 0.0);
   }
 
   @Test
   public void testSum() {
-    assertEquals(6.0, ob.getTotal(), 0.0);
+    assertEquals(6.0, inputAnalyzer.getTotal(), 0.0);
   }
 
   @Test
   public void testPercentage() {
-    assertEquals((3.0 / 13.0) * 100.00, ob.getPercentageNumbers(), 0.0);
+    assertEquals((3.0 / 13.0) * 100.00, inputAnalyzer.getPercentageNumbers(), 0.0);
   }
 
   @Test
   public void testFirstElement() {
-    assertEquals("zzzzzzzz", ob.getFirstStringElement());
+    assertEquals("zzzzzzzz", inputAnalyzer.getFirstStringElement());
   }
 
   @Test
   public void testLastElement() {
-    assertEquals("a", ob.getLastStringElement());
+    assertEquals("a", inputAnalyzer.getLastStringElement());
   }
 
   @Test
   public void testContains() {
-    assertTrue(ob.contains("a"));
-    assertFalse(ob.contains("garbledy gook, i am not in the file hopefully"));
+    assertTrue(inputAnalyzer.contains("a"));
+    assertFalse(inputAnalyzer.contains("garbledy gook, i am not in the file hopefully"));
   }
 }
