@@ -19,12 +19,7 @@ import org.junit.Test;
  * A directory with only an empty file.
  */
 public class FileScannerTest {
-
-  @Test
-  public void firstTest() {
-    assertEquals(2, 1+1);
-  }
-
+  
   File directory0;
   File directory1;
   File directory2;

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba207159-0835-48f4-890a-676638bf3da0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScanner/README.md" afterPath="$PROJECT_DIR$/FileScanner/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScanner/src/test/java/com/mycompany/app/filescanner/FileScannerTest.java" afterPath="$PROJECT_DIR$/FileScanner/src/test/java/com/mycompany/app/filescanner/FileScannerTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/InputAnalysis/target/" />
@@ -38,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileScannerTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FileScannerTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FileScanner/src/test/java/com/mycompany/app/filescanner/FileScannerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            <state relative-caret-position="127">
+              <caret line="21" column="2" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -142,7 +142,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FileScanner/README.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
@@ -222,7 +222,6 @@
         <option value="$PROJECT_DIR$/FileScannerClient/src/resources/directory0/directory1/file5.txt" />
         <option value="$PROJECT_DIR$/FileScanner/pom.xml" />
         <option value="$PROJECT_DIR$/FileScanner/src/main/java/com/mycompany/app/filescanner/Main.java" />
-        <option value="$PROJECT_DIR$/FileScanner/src/test/java/com/mycompany/app/filescanner/FileScannerTest.java" />
         <option value="$PROJECT_DIR$/FileScanner/src/main/java/com/mycompany/app/filescanner/FileScanner.java" />
         <option value="$PROJECT_DIR$/FileScannerClient/src/main/java/com/mycompany/app/inputanalysis/FileScannerClient.java" />
         <option value="$PROJECT_DIR$/Input/src/test/java/com/mycompany/app/input/ObTest.java" />
@@ -232,6 +231,7 @@
         <option value="$PROJECT_DIR$/Input/README.md" />
         <option value="$PROJECT_DIR$/FileScannerClient/README.md" />
         <option value="$PROJECT_DIR$/FileScanner/README.md" />
+        <option value="$PROJECT_DIR$/FileScanner/src/test/java/com/mycompany/app/filescanner/FileScannerTest.java" />
       </list>
     </option>
   </component>
@@ -1271,16 +1271,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FileScanner/src/test/java/com/mycompany/app/filescanner/FileScannerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FileScannerClient/src/main/java/com/mycompany/app/inputanalysis/FileScannerClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-112">
@@ -1386,6 +1376,16 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileScanner/src/test/java/com/mycompany/app/filescanner/FileScannerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="21" column="2" lean-forward="false" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
