@@ -8,12 +8,14 @@ package com.mycompany.app.input;
 public class Main {
 
   public static void main(String[] args) throws Exception {
-    System.out.println("Input a file: " + args);
-    for (String arg : args) {
-      System.out.println(arg);
+    if (args.length == 0) {
+      Ob ob = new Ob("test.txt");
+      ob.printData();
+    } else if (args.length == 1) {
+      Ob ob = new Ob(args[0]);
+      ob.printData();
+    } else {
+      System.out.println("Failed due to wrong number of args. Specify a test file or no args for the default run.");
     }
-
-    Ob ob = new Ob("test.txt");
-    ob.printData();
   }
 }
