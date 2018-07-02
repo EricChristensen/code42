@@ -1,7 +1,7 @@
 ### FileScanner module
 This is the FileScanner module. To run the tests for the FileScanner, run
 ```
-mvn clean install -pl FileScanner
+mvn clean test -pl FileScanner
 ```
 from the root of the project folder.
 
