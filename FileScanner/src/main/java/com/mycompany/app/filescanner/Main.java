@@ -8,11 +8,6 @@ import java.io.File;
  */
 public class Main {
   public static void main(String[] args) throws Exception {
-    System.out.println("Input a file: " + args);
-    for (String arg : args) {
-      System.out.println(arg);
-    }
-
     FileScanner fileScanner = new FileScanner();
     File folder = new File(".");
     System.out.println("Scanning " + folder.getName());

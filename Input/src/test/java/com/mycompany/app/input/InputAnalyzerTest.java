@@ -1,6 +1,5 @@
 package com.mycompany.app.input;
 
-
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
@@ -10,9 +9,7 @@ import java.io.FileNotFoundException;
 import org.junit.Before;
 import org.junit.Test;
 
-
 public class InputAnalyzerTest {
-
 
   private InputAnalyzer inputAnalyzer;
 

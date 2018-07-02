@@ -64,8 +64,8 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.mycompany.app.filescanner.FileScannerTest" name="testDirectory0" time="0.006"/>
+  <testcase classname="com.mycompany.app.filescanner.FileScannerTest" name="testDirectory0" time="0.005"/>
   <testcase classname="com.mycompany.app.filescanner.FileScannerTest" name="testDirectory1" time="0"/>
   <testcase classname="com.mycompany.app.filescanner.FileScannerTest" name="testDirectory2" time="0"/>
-  <testcase classname="com.mycompany.app.filescanner.FileScannerTest" name="testEmptyDirectory" time="0"/>
+  <testcase classname="com.mycompany.app.filescanner.FileScannerTest" name="testEmptyDirectory" time="0.001"/>
 </testsuite>

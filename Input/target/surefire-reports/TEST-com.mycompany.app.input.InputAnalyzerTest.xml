@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="9" failures="0" name="com.mycompany.app.input.InputAnalyzerTest" time="0.021" errors="0" skipped="0">
+<testsuite tests="9" failures="0" name="com.mycompany.app.input.InputAnalyzerTest" time="0.03" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib"/>
@@ -64,12 +64,12 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.mycompany.app.input.InputAnalyzerTest" name="testPercentage" time="0.015"/>
-  <testcase classname="com.mycompany.app.input.InputAnalyzerTest" name="testGoodFile" time="0.001"/>
-  <testcase classname="com.mycompany.app.input.InputAnalyzerTest" name="testSum" time="0"/>
+  <testcase classname="com.mycompany.app.input.InputAnalyzerTest" name="testPercentage" time="0.02"/>
+  <testcase classname="com.mycompany.app.input.InputAnalyzerTest" name="testGoodFile" time="0.002"/>
+  <testcase classname="com.mycompany.app.input.InputAnalyzerTest" name="testSum" time="0.001"/>
   <testcase classname="com.mycompany.app.input.InputAnalyzerTest" name="testAverage" time="0.001"/>
   <testcase classname="com.mycompany.app.input.InputAnalyzerTest" name="testBadFile" time="0.001"/>
-  <testcase classname="com.mycompany.app.input.InputAnalyzerTest" name="testFirstElement" time="0"/>
+  <testcase classname="com.mycompany.app.input.InputAnalyzerTest" name="testFirstElement" time="0.002"/>
   <testcase classname="com.mycompany.app.input.InputAnalyzerTest" name="testLastElement" time="0.001"/>
   <testcase classname="com.mycompany.app.input.InputAnalyzerTest" name="testContains" time="0.001"/>
   <testcase classname="com.mycompany.app.input.InputAnalyzerTest" name="testMedian" time="0.001"/>

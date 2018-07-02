@@ -28,6 +28,12 @@ public class InputAnalyzer {
   private DecimalFormat decimalFormat = new DecimalFormat("##.00");
   private double totalElements = 0;
 
+  /**
+   * Public constructor for the InputAnalyzer
+   *
+   * @param path: the path to the file in the form of a string.
+   * @throws FileNotFoundException if the file provided does not exist.
+   */
   public InputAnalyzer(String path) throws FileNotFoundException {
     numbers = new ArrayList<>();
     stringsCounts = new TreeMap<>(new MyComparator());
@@ -40,7 +46,6 @@ public class InputAnalyzer {
     File file = new File(url.getFile());
 
     try {
-
       BufferedReader bufferedReader = new BufferedReader(new FileReader(file));
 
       String line;
@@ -119,7 +124,7 @@ public class InputAnalyzer {
    *
    * @return the count of the numbers.
    */
-  int getCountOfNumbers() {
+  public int getCountOfNumbers() {
     return numbers.size();
   }
 
@@ -128,7 +133,7 @@ public class InputAnalyzer {
    *
    * @return the percentage of numbers computed.
    */
-  double getPercentageNumbers() {
+  public double getPercentageNumbers() {
     return (getCountOfNumbers() / totalElements) * 100.00;
   }
 
@@ -196,7 +201,7 @@ public class InputAnalyzer {
    * This doesn't look good to me which is why we have MyComparator here.
    * I think the result Eric 1, eRIC 1 looks nicer and the requirements did not specify cases.
    */
-  public class MyComparator implements Comparator<String> {
+  private class MyComparator implements Comparator<String> {
     public int compare(String s1, String s2) {
       if (s2.toLowerCase().compareTo(s1.toLowerCase()) == 0) {
         return s2.compareTo(s1);

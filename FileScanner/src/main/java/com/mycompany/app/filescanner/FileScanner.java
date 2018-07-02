@@ -93,7 +93,7 @@ public class FileScanner {
         totalBytes += file.length();
       }
     }
-    // If the number of files is 0, we need to write some code to avoid a division by 0 from occuring
+    // If the number of files is 0, we need to write some code to avoid a division by 0 from occurring
     if (numberOfFiles == 0) {
       averageBytes = 0;
     } else {
@@ -111,5 +111,4 @@ public class FileScanner {
     numberOfFiles = 0;
     totalBytes = 0;
   }
-
 }
