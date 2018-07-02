@@ -25,14 +25,14 @@ mvn clean install
 ```
 This will run all of the test in the project as well, but we will go into more detail for each of the modules.
 
-### [Input module]("./Input")
+### [Input module](Input)
 The Input module computes the programming challenge set forth that involves some calculating some statistics
-and sorting some strings. For information on how to perform runs and add new files for run see the [Input module readme]("./Input/README.md")
+and sorting some strings. For information on how to perform runs and add new files for run see the [Input module readme](Input/README.md)
  
-### [FileScanner module]("./FileScanner")
+### [FileScanner module](FileScanner)
 The FileScanner module contains the code for the FileScanner class defined in the code sample 2 section
-of the Code42 programming assignment. To see how to run and add tests for this class see thie [FileScanner readme]("./FileScanner/README.md")
+of the Code42 programming assignment. To see how to run and add tests for this class see thie [FileScanner readme](FileScanner/README.md)
 
-### [FileScannerClient module]("./FileScannerClient")
+### [FileScannerClient module](FileScannerClient)
 This module is simply a module that consumes the file scanner class like any other project would. For details
-see the [FileScannerClient module]("./FileScannerClient")
+see the [FileScannerClient module](FileScannerClient)

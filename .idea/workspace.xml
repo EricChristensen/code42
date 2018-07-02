@@ -2,39 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba207159-0835-48f4-890a-676638bf3da0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FileScanner/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Input/README.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/InputAnalysis.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/src/main/java/com/mycompany/app/inputanalysis/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/src/main/java/com/mycompany/app/inputanalysis/Ob.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/src/resources/test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/src/resources/test2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/src/test/java/com/mycompany/app/inputanalysis/ObTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/target/classes/test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/target/classes/test2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/target/surefire-reports/TEST-com.mycompany.app.ObTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/target/surefire-reports/com.mycompany.app.ObTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/InputAnalysis/target/test-classes/com/mycompany/app/ObTest.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScanner/target/file-scanner-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/FileScanner/target/file-scanner-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScannerClient/target/file-scanner-client-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/FileScannerClient/target/file-scanner-client-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Input/target/input-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Input/target/input-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScanner/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/FileScanner/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScanner/target/surefire-reports/TEST-com.mycompany.app.filescanner.FileScannerTest.xml" afterPath="$PROJECT_DIR$/FileScanner/target/surefire-reports/TEST-com.mycompany.app.filescanner.FileScannerTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScanner/target/surefire-reports/com.mycompany.app.filescanner.FileScannerTest.txt" afterPath="$PROJECT_DIR$/FileScanner/target/surefire-reports/com.mycompany.app.filescanner.FileScannerTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScannerClient/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/FileScannerClient/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FileScannerClient/target/surefire-reports/com.mycompany.app.inputanalysis.FileScannerClientTest.txt" afterPath="$PROJECT_DIR$/FileScannerClient/target/surefire-reports/com.mycompany.app.inputanalysis.FileScannerClientTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Input/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Input/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Input/target/surefire-reports/TEST-com.mycompany.app.input.ObTest.xml" afterPath="$PROJECT_DIR$/Input/target/surefire-reports/TEST-com.mycompany.app.input.ObTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Input/target/surefire-reports/com.mycompany.app.input.ObTest.txt" afterPath="$PROJECT_DIR$/Input/target/surefire-reports/com.mycompany.app.input.ObTest.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -160,8 +127,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="329">
-                <caret line="37" column="55" lean-forward="false" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
+              <first_editor relative-caret-position="313">
+                <caret line="35" column="31" lean-forward="false" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -1399,8 +1366,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="329">
-            <caret line="37" column="55" lean-forward="false" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
+          <first_editor relative-caret-position="313">
+            <caret line="35" column="31" lean-forward="false" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
             <folding />
           </first_editor>
           <second_editor />
